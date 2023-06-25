@@ -1,5 +1,4 @@
-Chapter 5: Measuring and Evaluating Learning Outcomes: Measuring the Effectiveness of Learning Programs
-=======================================================================================================
+# Measuring the Effectiveness of Learning Programs
 
 Measuring the effectiveness of learning programs is critical for determining whether they are meeting their intended goals and making improvements as necessary. In this chapter, we will explore strategies for measuring and evaluating learning outcomes, including setting measurable goals, collecting feedback from employees, and using data analytics.
 

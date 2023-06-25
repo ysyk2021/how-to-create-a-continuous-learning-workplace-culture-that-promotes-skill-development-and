@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Fostering a Culture of Learning
-==============================================================
+# Fostering a Culture of Learning
 
 Leadership support is essential for fostering a culture of continuous learning that promotes ongoing skill development and personal growth in the workplace. In this chapter, we will explore strategies for leadership to foster a culture of learning, including promoting open communication, providing opportunities for feedback, and creating a sense of community.
 
