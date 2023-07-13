@@ -1,4 +1,4 @@
-Conclusion: Summary of key points
+Summary of key points
 =================================
 
 In this book, we have explored the importance of creating a continuous learning workplace culture that promotes skill development and personal growth for employees. Here is a summary of the key points covered in each chapter:

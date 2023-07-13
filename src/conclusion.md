@@ -1,5 +1,8 @@
 # Conclusion
 
+Conclusion
+==========
+
 Creating a continuous learning workplace culture that promotes skill development and personal growth for employees is essential for organizational success. In this book, we have explored the importance of promoting continuous learning, strategies for developing and implementing effective training programs, methods for measuring and evaluating learning outcomes, and examples of successful continuous learning strategies in practice.
 
 Summary of key points
