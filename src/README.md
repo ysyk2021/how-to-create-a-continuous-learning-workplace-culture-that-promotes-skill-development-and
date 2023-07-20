@@ -15,7 +15,4 @@ Whether you're a manager looking to improve employee engagement, a human resourc
 
 So let's dive in and learn how to create a continuous learning workplace culture that promotes skill development and personal growth for employees!
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
