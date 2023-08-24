@@ -1,4 +1,3 @@
-# Encouraging Experimentation and Innovation
 
 Encouraging experimentation and innovation is essential for building a learning culture that promotes ongoing skill development and personal growth in the workplace. In this chapter, we will explore strategies for encouraging experimentation and innovation, including creating a safe space for failure, fostering creativity, and promoting a growth mindset.
 

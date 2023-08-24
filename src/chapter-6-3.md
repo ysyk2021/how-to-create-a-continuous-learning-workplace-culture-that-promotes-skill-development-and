@@ -1,4 +1,3 @@
-# Using data to improve learning outcomes
 
 Measuring and evaluating learning outcomes is essential for ensuring that learning programs are effective and contributing to employee development and growth. In this chapter, we will explore strategies for measuring and evaluating learning outcomes.
 

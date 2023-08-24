@@ -1,5 +1,3 @@
-Chapter 3: Building a Learning Culture
-======================================
 
 Building a culture of continuous learning is essential for promoting skill development and personal growth in the workplace. In this chapter, we will explore strategies for creating a culture that values learning and development, providing opportunities for learning and development, and encouraging experimentation and innovation.
 

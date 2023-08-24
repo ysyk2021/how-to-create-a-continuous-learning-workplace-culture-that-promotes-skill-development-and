@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Leadership plays a critical role in promoting a continuous learning workplace culture that encourages skill development and personal growth for employees. In this chapter, we will explore the role of leadership in promoting continuous learning, fostering a culture of learning, and addressing challenges and setbacks.
 

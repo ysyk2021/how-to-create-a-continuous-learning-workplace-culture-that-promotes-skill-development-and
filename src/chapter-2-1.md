@@ -1,4 +1,3 @@
-# What is a continuous learning workplace culture?
 
 A continuous learning workplace culture is an environment where employees are encouraged to develop their skills and knowledge on an ongoing basis. In this chapter, we will explore what a continuous learning workplace culture entails.
 

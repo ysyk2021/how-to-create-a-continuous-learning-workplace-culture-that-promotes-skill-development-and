@@ -1,4 +1,3 @@
-# The Role of Leadership in Promoting Continuous Learning
 
 Leadership support is essential for creating a culture of continuous learning that promotes ongoing skill development and personal growth in the workplace. In this chapter, we will explore the role of leadership in promoting continuous learning, including setting the tone, providing resources and support, and leading by example.
 

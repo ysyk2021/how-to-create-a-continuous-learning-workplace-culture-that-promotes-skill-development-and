@@ -1,4 +1,3 @@
-# Evaluating Employee Performance and Progress
 
 Evaluating employee performance and progress is an essential component of measuring the effectiveness of learning programs and promoting ongoing skill development and personal growth in the workplace. In this chapter, we will explore strategies for evaluating employee performance and progress, including using performance metrics, providing feedback, and offering coaching and mentorship.
 
