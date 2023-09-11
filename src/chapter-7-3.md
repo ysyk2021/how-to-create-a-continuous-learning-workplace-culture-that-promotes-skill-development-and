@@ -1,5 +1,4 @@
-Chapter 11: Measuring the Effectiveness of Continuous Learning Strategies
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of measuring the effectiveness of continuous learning strategies within organizations. By implementing appropriate measurement techniques, organizations can assess the impact of their learning initiatives and make data-driven decisions to optimize skill development and personal growth for employees.
 

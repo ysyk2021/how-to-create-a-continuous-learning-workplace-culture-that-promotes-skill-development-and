@@ -1,5 +1,4 @@
-Chapter 8: Fostering a Culture of Learning
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In order to create a continuous learning workplace culture that promotes skill development and personal growth for employees, it is crucial to foster a culture of learning within the organization. This chapter explores the key elements and strategies necessary for nurturing a culture that values and encourages ongoing learning.
 

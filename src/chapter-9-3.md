@@ -1,5 +1,4 @@
-Chapter 16: Looking ahead to the Future of a Workforce with a Continuous Learning Culture
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a rapidly evolving world, the future of work will be shaped by organizations that embrace a continuous learning culture. This chapter explores the exciting possibilities and potential challenges that lie ahead as we envision a workforce fueled by ongoing skill development and personal growth.
 

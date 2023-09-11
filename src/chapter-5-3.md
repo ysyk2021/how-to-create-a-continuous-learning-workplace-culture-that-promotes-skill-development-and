@@ -1,5 +1,4 @@
-Chapter 8: Incorporating Technology into Learning Programs
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of incorporating technology into learning programs to create a continuous learning workplace culture that promotes skill development and personal growth for employees. Technological advancements have revolutionized the way we learn, offering new tools and opportunities for organizations to enhance their learning initiatives.
 

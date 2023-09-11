@@ -1,5 +1,4 @@
-Chapter 7: The Role of Leadership in Promoting Continuous Learning
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In creating a continuous learning workplace culture that fosters skill development and personal growth for employees, leadership plays a pivotal role. This chapter explores the key responsibilities and strategies that leaders should adopt to promote and sustain a culture of continuous learning within their organizations.
 

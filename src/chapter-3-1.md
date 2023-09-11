@@ -1,5 +1,4 @@
-Chapter 14: Understanding the Impact of Continuous Learning on Organizational Growth and Success
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Continuous learning plays a crucial role in driving organizational growth and success. In this chapter, we will explore the profound impact that a culture of continuous learning can have on an organization's ability to thrive in today's dynamic business environment.
 

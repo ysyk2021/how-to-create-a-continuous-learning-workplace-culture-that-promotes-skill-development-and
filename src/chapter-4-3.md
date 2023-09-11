@@ -1,5 +1,4 @@
-Chapter 10: Encouraging Experimentation and Innovation
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of encouraging experimentation and innovation in creating a continuous learning workplace culture. Fostering a culture of experimentation enables employees to explore new ideas, take risks, and drive innovation within the organization. By promoting a mindset that embraces change and encourages creative problem-solving, organizations can enhance skill development, personal growth, and overall success.
 

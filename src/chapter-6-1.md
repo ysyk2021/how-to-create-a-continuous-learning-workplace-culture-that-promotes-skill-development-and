@@ -1,5 +1,4 @@
-Chapter 9: Measuring the Effectiveness of Learning Programs
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of measuring the effectiveness of learning programs in creating a continuous learning workplace culture. Evaluating the impact of learning initiatives allows organizations to make data-driven decisions, improve program effectiveness, and ensure that investments in employee development yield tangible results. By implementing effective measurement strategies, you can optimize learning programs and support ongoing skill development and personal growth.
 

@@ -1,5 +1,4 @@
-Chapter 10: Overcoming Barriers to Effective Implementation
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common barriers organizations may face when implementing a continuous learning workplace culture that promotes skill development and personal growth for employees. Recognizing and addressing these barriers is essential for ensuring the successful integration of learning initiatives within the organizational framework.
 

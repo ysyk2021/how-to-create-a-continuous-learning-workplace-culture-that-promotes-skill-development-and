@@ -1,5 +1,4 @@
-Chapter 15: Innovations in Continuous Learning Workplace Cultures
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovations in continuous learning workplace cultures have revolutionized the way organizations approach skill development and personal growth for their employees. This chapter explores some of the cutting-edge practices and technologies that are reshaping the landscape of continuous learning.
 

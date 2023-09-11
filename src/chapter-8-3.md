@@ -1,5 +1,4 @@
-Chapter 9: Addressing Challenges and Setbacks
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In any organization striving to create a continuous learning workplace culture, it is essential to address the challenges and setbacks that arise along the journey. This chapter explores key strategies and approaches to effectively navigate obstacles and promote resilience in the face of adversity.
 

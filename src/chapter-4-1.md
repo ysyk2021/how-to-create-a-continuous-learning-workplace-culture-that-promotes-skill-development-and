@@ -1,5 +1,4 @@
-Chapter 8: Creating a Culture that Values Learning and Development
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of creating a culture that values learning and development in the workplace. A continuous learning culture promotes skill development, personal growth, and adaptability among employees. By fostering an environment that encourages and supports learning, organizations can enhance employee engagement, retention, and overall success.
 

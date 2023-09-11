@@ -1,5 +1,4 @@
-Chapter 7: Evaluating Employee Performance and Progress
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of evaluating employee performance and progress in creating a continuous learning workplace culture. Regular evaluations provide valuable insights into individual and team development, allowing for targeted skill development and personal growth. By implementing effective evaluation strategies, you can foster a culture of continuous learning and enhance employee success.
 

@@ -1,5 +1,4 @@
-Chapter 11: Providing Opportunities for Learning and Development
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of providing opportunities for learning and development in creating a continuous learning workplace culture. By offering various avenues for skill development and personal growth, organizations can support employees in their professional journey, enhance their capabilities, and foster a culture of continuous improvement.
 

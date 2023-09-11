@@ -1,5 +1,4 @@
-Chapter 12: Designing Effective Learning Programs
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of designing effective learning programs that foster a continuous learning workplace culture. By following a systematic approach, organizations can create impactful learning experiences that promote skill development and personal growth for employees.
 

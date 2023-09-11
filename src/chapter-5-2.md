@@ -1,5 +1,4 @@
-Chapter 9: Identifying and Utilizing Resources for Learning
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of identifying and utilizing resources for learning in creating a continuous learning workplace culture that promotes skill development and personal growth for employees. By understanding and leveraging the available resources, organizations can provide meaningful learning opportunities that empower employees to thrive and grow.
 

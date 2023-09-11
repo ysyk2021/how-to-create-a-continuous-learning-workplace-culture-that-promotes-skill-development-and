@@ -1,5 +1,4 @@
-Chapter 13: The Costs of Ignoring Continuous Learning
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ignoring continuous learning within the workplace culture can have significant consequences for both employees and organizations. In this chapter, we will explore the various costs associated with neglecting continuous learning and the detrimental effects it can have on skill development and personal growth.
 

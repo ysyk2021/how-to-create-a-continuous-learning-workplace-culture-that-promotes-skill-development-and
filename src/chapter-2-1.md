@@ -1,5 +1,4 @@
-Chapter 9: What is a Continuous Learning Workplace Culture?
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of a continuous learning workplace culture and its significance in promoting skill development and personal growth for employees. A continuous learning culture goes beyond traditional training programs and emphasizes the importance of ongoing learning, adaptability, and innovation in today's dynamic work environment.
 

@@ -1,5 +1,4 @@
-Chapter 12: Examples of Successful Continuous Learning Strategies in Practice
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of successful continuous learning strategies implemented by organizations to create a workplace culture that promotes skill development and personal growth for employees. These examples illustrate how various companies have embraced continuous learning and reaped the benefits of a dynamic and adaptable workforce.
 
